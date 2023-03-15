@@ -49,7 +49,8 @@ void loop() {
 */
 
 
- float humedad = dht.readHumidity();
+ float humedad = dht.
+ ();
   float temperatura = dht.readTemperature();
 
   // Comprobar si la lectura del sensor fue exitosa
